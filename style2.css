@@ -1,0 +1,55 @@
+body{
+background-color: blue;
+text-align: center;
+}
+h1{
+    color: aqua;
+}
+h2{
+    color: brown;
+}
+.cart-item{ToyCar
+display: flex;
+align-items: center;    
+margin-bottom: 10px;
+border-bottom: 1px solid #f5f5f5;
+padding-bottom: 5px;
+max-width: 400px;
+}
+img{
+    width: 80px;
+    height: 80px;
+border-radius: 18px;
+margin-right: 20px;
+}
+
+.cart-item{ChocolateBar
+display: flex;
+align-items: center;    
+margin-bottom: 10px;
+border-bottom: 1px solid #f5f5f5;
+padding-bottom: 5px;
+max-width: 400px;
+}
+img{
+    width: 80px;
+    height: 80px;
+border-radius: 18px;
+margin-right: 20px;
+}
+
+.cart-item{Football
+display: flex;
+align-items: center;    
+margin-bottom: 10px;
+border-bottom: 1px solid #f5f5f5;
+padding-bottom: 5px;
+max-width: 400px;
+}
+img{
+    width: 80px;
+    height: 80px;
+border-radius: 18px;
+margin-right: 20px;
+}
+
